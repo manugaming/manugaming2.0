@@ -1,4 +1,3 @@
-#manugaming
 <html>
 <head>
 <meta name="description" content="Bueno amigos de youtube, bienvenidos a la pagina oficial del canal aqui al igual que en twitter podran ver los videos
